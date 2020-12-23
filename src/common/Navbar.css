@@ -1,0 +1,27 @@
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: beige;
+}
+.w-auto {
+  width: auto;
+}
+.color {
+  background-color: #b49da2;
+  border: none;
+}
+.navbar {
+  outline: #a1858b;
+  outline-style: groove;
+}
+.color:hover {
+  background-color: #b49da2;
+  border: none;
+}
+.title {
+  color: beige;
+  text-decoration: none;
+}
+.title:hover {
+  color: beige;
+  text-decoration: none;
+}
