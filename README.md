@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Software-Security React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+API can be found at [https://github.com/OscarBaelde/Software-Security-API](https://github.com/OscarBaelde/Software-Security-API)
 
 ## Available Scripts
 
