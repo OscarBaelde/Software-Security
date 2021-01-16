@@ -8,33 +8,33 @@ function appartements() {
       <div className="alignment">
         <h1 className="appartement">Appartements</h1>
         <h2>Sint-Pieters-Leeuw</h2>
-        <ul class="list-group padding-right">
-          <li class="list-group-item d-flex justify-content-between align-items-center">
+        <ul className="list-group padding-right">
+          <li className="list-group-item d-flex justify-content-between align-items-center">
             2G
-            <span class="badge badge-primary badge-pill">0</span>
+            <span className="badge badge-primary badge-pill">0</span>
           </li>
-          <li class="list-group-item d-flex justify-content-between align-items-center">
+          <li className="list-group-item d-flex justify-content-between align-items-center">
             Dapibus ac facilisis in
-            <span class="badge badge-primary badge-pill">2</span>
+            <span className="badge badge-primary badge-pill">2</span>
           </li>
-          <li class="list-group-item d-flex justify-content-between align-items-center">
+          <li className="list-group-item d-flex justify-content-between align-items-center">
             Morbi leo risus
-            <span class="badge badge-primary badge-pill">1</span>
+            <span className="badge badge-primary badge-pill">1</span>
           </li>
         </ul>
         <h2>Strombeek</h2>
-        <ul class="list-group padding-right">
-          <li class="list-group-item d-flex justify-content-between align-items-center">
+        <ul className="list-group padding-right">
+          <li className="list-group-item d-flex justify-content-between align-items-center">
             C1
-            <span class="badge badge-primary badge-pill">14</span>
+            <span className="badge badge-primary badge-pill">14</span>
           </li>
-          <li class="list-group-item d-flex justify-content-between align-items-center">
+          <li className="list-group-item d-flex justify-content-between align-items-center">
             Dapibus ac facilisis in
-            <span class="badge badge-primary badge-pill">2</span>
+            <span className="badge badge-primary badge-pill">2</span>
           </li>
-          <li class="list-group-item d-flex justify-content-between align-items-center">
+          <li className="list-group-item d-flex justify-content-between align-items-center">
             Morbi leo risus
-            <span class="badge badge-primary badge-pill">1</span>
+            <span className="badge badge-primary badge-pill">1</span>
           </li>
         </ul>
       </div>
