@@ -6,6 +6,8 @@ import Sidebar from "./common/Sidebar";
 import Appartements from "./Appartements";
 import Tenants from "./Tenants";
 import Rents from "./Rents";
+import Footer from "./common/Footer";
+import Klachten from "./Klachten";
 
 function App() {
   return (
@@ -19,8 +21,12 @@ function App() {
           <Route path="/appartements" component={Appartements} />
           <Route path="/tenants" component={Tenants} />
           <Route path="/rents" component={Rents} />
+          <Route path="/mydata" component={Footer} />
+          <Route path="/privacy" component={Footer} />
+          <Route path="/klachten" component={Klachten} />
           {/*<Route path="/management" component={} />*/}
         </Switch>
+        <Footer />
       </BrowserRouter>
     </>
   );
