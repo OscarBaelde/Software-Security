@@ -11,11 +11,8 @@ function Klachten() {
     async function handleSubmit(e) {
       e.preventDefault();
       try {
-        const token = getToken();
+        const token = await getToken();
         const data = { text: value };
-        //console.log(JSON.stringify(data));
-        console.log("token:");
-        console.log(token);
 
         fetch("https://api.essentialgp.org/klachten", {
           method: "POST",
