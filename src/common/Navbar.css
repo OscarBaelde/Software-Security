@@ -1,24 +1,25 @@
 html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: beige;
+  background-color: #f1faee;
 }
 .w-auto {
   width: auto;
 }
-.color {
-  background-color: #b49da2;
+.red {
+  background-color: #e63946;
   border: none;
 }
 .navbar {
   outline: #a1858b;
   outline-style: groove;
+  height: 100px;
 }
-.color:hover {
+/*.color:hover {
   background-color: #b49da2;
   border: none;
-}
+}*/
 .title {
-  color: beige;
+  color: #1d3557;
   text-decoration: none;
 }
 .title:hover {

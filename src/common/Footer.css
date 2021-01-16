@@ -1,0 +1,16 @@
+.footer {
+  margin-top: 10px;
+  padding: 5px;
+  background-color: #13505b;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  align-items: center;
+}
+
+.privacy {
+  text-decoration: underline;
+  color: #119da4;
+  align-items: center;
+}

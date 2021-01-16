@@ -1,11 +1,11 @@
 .sidebar {
   position: fixed;
-  top: 98px;
+  top: 103px;
   left: 0px;
   width: 140px;
   height: 100%;
-  background-color: #6c414a;
-  outline: #a1858b;
+  background-color: #457b9d;
+  outline: #a8dadc;
   outline-style: groove;
 }
 .sidebar.active {
@@ -19,7 +19,7 @@
 .sidebar li {
   list-style: none;
   outline-style: inset;
-  outline: beige;
+  outline: #a8dadc;
 }
 .sidebar li a {
   font-size: 18px;
@@ -29,6 +29,6 @@
   color: beige;
 }
 .item:hover {
-  background-color: beige;
+  background-color: #1d3557;
   color: black;
 }
